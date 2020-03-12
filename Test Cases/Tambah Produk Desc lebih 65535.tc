@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>tes case untuk menyimpan produk dengan panjang nama karakter1</description>
+   <name>Tambah Produk Desc lebih 65535</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4808cfdd-beba-4def-a1a3-47da1c8af5a2</testCaseGuid>
+</TestCaseEntity>

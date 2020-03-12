@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>tes case untuk menyimpan foto produk dengan ukuran 2mb</description>
+   <name>Tambah Produk foto ukuran 2mb</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1882cbd2-49c4-43b1-85c3-01a0576a8212</testCaseGuid>
+</TestCaseEntity>

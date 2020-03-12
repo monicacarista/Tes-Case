@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>tes case untuk menyimpan produk dengan panjang harga buah int 11</description>
+   <name>Tambah Produk Harga Buah 11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0513dd4a-18df-4bb4-be63-b60c1a1046c2</testCaseGuid>
+</TestCaseEntity>
