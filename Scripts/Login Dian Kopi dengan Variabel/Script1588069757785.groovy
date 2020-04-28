@@ -20,15 +20,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost/tokobuah/index.php/admin/login')
 
-WebUI.setText(findTestObject('Page_Login Admin/input_Email_email'), 'dians')
+WebUI.setText(findTestObject('Page_Login Admin/input_Email_email'), username)
 
-WebUI.setEncryptedText(findTestObject('Page_Login Admin/input_Password_password'), 'MMS/zmTQxAM=')
+WebUI.setEncryptedText(findTestObject('Page_Login Admin/input_Password_password'), password)
 
 WebUI.click(findTestObject('Page_Login Admin/input_Lupa Password_btn btn-success w-100'))
-
-url = WebUI.getUrl()
-
-WebUI.verifyMatch(url, 'http://localhost/tokobuah/index.php/admin/login', false)
 
 WebUI.closeBrowser()
 

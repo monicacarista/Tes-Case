@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Data dengan Variabel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7e052b3-7fc2-4516-a7b8-7a7ba63a8b07</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>675586e0-cbc1-4a16-8b02-c82014aeb4c2</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5f5e0bd0-6ab9-4ec6-ae2d-30a0a3beaaa2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ac003595-c7d8-4efb-8cf9-3e0412865ba1</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fec8737c-3979-4663-93cb-5770fe52ac72</id>
+      <masked>false</masked>
+      <name>price</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7f11d161-c76b-466e-9ea0-62095e62610a</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+</TestCaseEntity>

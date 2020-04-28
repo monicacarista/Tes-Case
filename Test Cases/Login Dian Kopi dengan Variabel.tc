@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Dian Kopi dengan Variabel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82ca2af1-5a91-49de-bd1a-6c1633469d6d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>277d9222-af75-4a04-a4e7-2a306066595d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1791f1bf-44a8-40f1-ba5d-ae1d7ef61081</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

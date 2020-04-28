@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>login</name>
+   <name>Login Dian Kopi</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>582dc0f2-72d6-4cf0-b8f4-2415ee19912f</testCaseGuid>
+   <testCaseGuid>e90a49ac-f6aa-4d35-92b9-54883698b504</testCaseGuid>
 </TestCaseEntity>
